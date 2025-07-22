@@ -18,32 +18,6 @@ Welcome to the **Firebase App Repository**! This project is built using Firebase
 - 🌍 **Real-Time Database:** Uses Firebase Firestore for dynamic updates  
 - 🔐 **Secure Authentication:** Includes email/password, Google, and OAuth sign-in  
 
-## 🔧 Git Setup Instructions
-To initialize Git and add the repository:
-
-### 1️⃣ Initialize Git  
-Run the following commands to set up Git:
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-
-
-2️⃣ Add Remote Repository
-Replace <REPO_URL> with your actual repository URL:
-git remote add origin <REPO_URL>
-git push -u origin main
-
-
-📂 Folder Structure
-/firebase-app
- ├── /src          # Source code files
- ├── /public       # Static assets & frontend
- ├── /functions    # Firebase Cloud Functions
- ├── /config       # Configuration files
- ├── /docs         # Documentation & setup guides
- ├── .gitignore    # Ignored files in Git repository
- ├── README.md     # Documentation file
 
 
 📊 Applications
