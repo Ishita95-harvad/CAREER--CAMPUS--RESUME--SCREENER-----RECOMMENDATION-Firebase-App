@@ -1,8 +1,8 @@
-# Career Campus Firebase App 
+# CAREER CAMPUS RESUME SCREENER & RECOMMENDATION # 🔥 Firebase App Repository
 
  https://github.com/Ishita95-harvad/firebase-app.git
 git push -u origin main
-# 🔥 Firebase App Repository
+
 
 Welcome to the **Firebase App Repository**! This project is built using Firebase services to handle authentication, database operations, and cloud functions.
 
