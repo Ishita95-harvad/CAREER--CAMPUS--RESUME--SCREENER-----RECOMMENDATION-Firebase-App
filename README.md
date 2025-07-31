@@ -2,7 +2,7 @@
  ### 🔥 Firebase App-GitHub Repository
 ![Image](https://github.com/Ishita95-harvad/CAREER--CAMPUS--RESUME--SCREENER-----RECOMMENDATION-Firebase-App/blob/main/Screenshot%20(716).png)
 
-Welcome to the **Firebase App Repository**! This project is built using Firebase services to handle authentication, database operations, and cloud functions.
+Welcome to the **Career Campus Web App  GitHUb Repository**! This project is built using Firebase services to handle authentication, database operations, and cloud functions.
 
 ## 📌 Project Overview
 - 🏗 **Firebase Integration:** Authentication, Firestore, and cloud storage  
