@@ -1,10 +1,11 @@
 # [CAREER CAMPUS RESUME SCREENER & Premium RECOMMENDATION](https://studio--career-compass-zeyh7.us-central1.hosted.app)
- ### 🔥 Firebase StudioApp-GitHub Repository
+
+ ### 🔥 Firebase App Repository
 ![Image](https://github.com/Ishita95-harvad/CAREER--CAMPUS--RESUME--SCREENER-----RECOMMENDATION-Firebase-App/blob/main/Screenshot%20(716).png)
 
 Welcome to the **Career Campus Web App  GitHUb Repository**! This project is built using Firebase services to handle authentication, database operations, and cloud functions.
 
-## 📌 Project Overview
+ #### 📌 Project Overview
 - 🏗 **Firebase Integration:** Authentication, Firestore, and cloud storage  
 - 📱 **Mobile & Web Support:** Designed for cross-platform accessibility  
 - 🌍 **Real-Time Database:** Uses Firebase Firestore for dynamic updates  
@@ -12,11 +13,13 @@ Welcome to the **Career Campus Web App  GitHUb Repository**! This project is bui
 
 
 
-📊 Applications
+ #### 📊 Applications
 - User Authentication: Firebase Auth for seamless sign-in
 - Data Management: Firebase Firestore for structured and scalable storage
 - Push Notifications: Firebase Cloud Messaging for real-time updates
-🤝 Contributions
+
+#### 🤝 Contributions
 We welcome contributions! If you have additional features or optimizations, feel free to submit a pull request.
-📜 License
+
+#### 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details
