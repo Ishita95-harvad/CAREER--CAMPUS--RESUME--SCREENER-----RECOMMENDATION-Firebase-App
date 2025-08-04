@@ -1,6 +1,6 @@
 
 
-## [CAREER CAMPUS RESUME SCREENER & Premium RECOMMENDATION](https://studio--career-compass-zeyh7.us-central1.hosted.app)
+## [CAREER CAMPUS :BUILD A RESPONSIVE WEBAPP -RESUME SCREENING, DISCORD AND EXPERT RECOMMENDATION](https://studio--career-compass-zeyh7.us-central1.hosted.app)
 
 
 
