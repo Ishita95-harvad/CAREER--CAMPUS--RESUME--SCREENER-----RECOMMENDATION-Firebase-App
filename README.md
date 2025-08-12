@@ -4,10 +4,15 @@
  ## 🔥 Firebase-next-premium-App 
 - Welcome to the **Career Campus Web App  GitHUb Repository**! This project is built using Firebase services to handle authentication, database operations, and cloud functions.
 
-#### ![Career Compass Thumbnail](https://user-images.githubusercontent.com/.../career-thumbnail.png)
+## 🧭 Career Campus Pro+ – Visual Preview
 
+## 🧭 Career Campus Pro+ – Project Card  
+**Empowering Your Future with Expert-Led Career Guidance**
 
-> Navigate Your Career Path with Confidence
+> Career Campus Pro+ is an AI-powered career guidance platform designed to help students and professionals navigate their career paths with clarity, confidence, and expert support.
+
+### 🖼️ Visual Preview  
+![Career Campus Pro+ Poster](https://github.com/Ishita95-harvad/CAREER--CAMPUS-Firebase-next-premium-App/blob/main/assets/photo_2025-08-12_10-37-36.jpg?raw=true)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  #### 📌 Project Overview
